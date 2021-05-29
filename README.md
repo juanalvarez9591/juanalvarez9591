@@ -1,6 +1,3 @@
-### Nice to meet you! 👋
+### Bienvenido a mi GitHub
 
-In my portfolio you will find:
-
-Python web-scraping projects
-Pygame projects
+Las construcciones no se terminan, en todo caso se abandonan...
