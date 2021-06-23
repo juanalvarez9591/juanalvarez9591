@@ -7,6 +7,7 @@ My skills:
 - HTML & CSS
 - SCSS and other CSS pre-proccesors at a basic level
 - Webpack
+- Git
 
  Python:
 - Webscraping with Selenium and BeautifulSoup
