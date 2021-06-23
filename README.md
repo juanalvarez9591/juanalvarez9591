@@ -8,6 +8,9 @@ My skills:
 - SCSS and other CSS pre-proccesors at a basic level
 - Webpack
 - Git
+- NPM
+- Bootstrap & React-Bootstrap
+- Responsive Design / Mobile-first
 
  Python:
 - Webscraping with Selenium and BeautifulSoup
