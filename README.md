@@ -5,7 +5,7 @@ Hi there, I'm JP 👋
 
 Senior Backend Engineer. Interested in distributed systems, finance, cryptography, formal verification.
 
-Checkout my [website](https://jpalvarez.xyz/)
+Visit my [website](https://jpalvarez.xyz/)
 
 ### Languages
 
